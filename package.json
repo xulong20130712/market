@@ -1,0 +1,23 @@
+{
+  "name": "yinsi",
+  "version": "1.0.0",
+  "description": "<!--隐私政策--></p>",
+  "main": "yinsi.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xulong20130712/market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xulong20130712/market/issues"
+  },
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {
+    "serve": "^12.0.0"
+  },
+  "homepage": "https://github.com/xulong20130712/market#readme"
+}
