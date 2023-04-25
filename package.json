@@ -17,7 +17,7 @@
     "build": "hugo"
   },
   "dependencies": {
-    "hugo": "0.54.0"
+    "hugo": "^0.88.1"
   },
   "homepage": "https://github.com/xulong20130712/market#yinsi.html"
 }
